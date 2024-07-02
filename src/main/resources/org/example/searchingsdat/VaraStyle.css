@@ -1,0 +1,180 @@
+.root {
+    -fx-font-family: "Roboto";
+    -fx-font-weight: bold;
+}
+
+.bg-white {
+    -fx-background-color: white;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, .5), 10, 0, 0, 1);
+    -fx-background-radius: 20px;
+}
+
+.bg-font {
+    -fx-font-family: "Roboto Light";
+    -fx-font-weight: bold;
+    -fx-font-size: 25px;
+    -fx-scale-y: 1.0;
+    -fx-text-fill: linear-gradient(to left, rgb(105, 23, 23), #ae2d3c);
+    -fx-alignment: center;
+}
+
+.lb-font {
+    -fx-font-family: "Roboto Light";
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+    -fx-scale-y: 1.0;
+    -fx-text-alignment: right;
+    -fx-text-fill: #ae2d3c;
+}
+
+.table-view {
+    -fx-background-color: transparent;
+    -fx-border-color: linear-gradient(to bottom right, #d1201b, #ae2d3c);
+    -fx-border-radius: 15px;
+    -fx-border-width: 1px;
+    -fx-padding: 0px;
+}
+
+.table-view .table-column {
+    -fx-alignment: CENTER;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: linear-gradient(to top left, #1e242e, #ae2d3c);
+    -fx-background-radius: 10px 10px 0px 0px;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+    /*-fx-size: 50px;*/
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: #ffff;
+    -fx-font-family: "Roboto Light";
+    -fx-font-weight: bold;
+}
+
+.textfield {
+    -fx-font-family: "Roboto Light";
+    -fx-font-weight: bold;
+    -fx-background-color: transparent;
+    -fx-border-radius: 15px;
+    -fx-border-color: linear-gradient(to top left, #1e242e, #ae2d3c);
+    -fx-border-width: 1px;
+}
+
+.textfield:focused {
+    -fx-font-family: "Roboto Light";
+    -fx-font-weight: bold;
+    -fx-background-color: transparent;
+    -fx-border-radius: 15px;
+    -fx-border-color: linear-gradient(to top left, #1e242e, #ae2d3c);
+    -fx-border-width: 2px;
+}
+
+.button .text {
+    -fx-text-fill: #ffffff;
+    -fx-font-family: "Roboto Light";
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-background-color: linear-gradient(to top left, #1e242e, #ae2d3c);
+    -fx-background-radius: 15px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, .5), 10, 0, 0, 1);
+}
+
+.button:hover {
+    -fx-background-color: #ae2d3c;
+}
+
+.combo-box{
+    -fx-background-color: #ae2d3c;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, .5), 10, 0, 0, 1);
+    -fx-background-radius: 15px;
+}
+
+.combo-box .text,
+.combo-box .text-field {
+    -fx-font-family: "Roboto";
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-background-color: transparent;
+}
+
+.combo-box .text-field:focused,
+.combo-box .text-field:hover {
+    -fx-background-color: white;
+    -fx-text-fill: #ae2d3c;
+}
+
+.combo-box-popup,
+.combo-box-popup .list-cell{
+    -fx-border-radius: 10px;
+    -fx-border-color: linear-gradient(to top left, #1e242e, #ae2d3c);
+    -fx-background-color: white;
+    -fx-text-fill: #1e242e;
+}
+
+.radio-button {
+    -fx-text-fill: #ae2d3c;
+}
+
+.radio-button .radio .dot {
+    -fx-background-color: #1e242e;
+}
+
+.radio-button:selected .radio .dot {
+    -fx-background-color: #ae2d3c;
+}
+
+.radio-button .text {
+    -fx-font-family: "Roboto Light";
+    -fx-font-weight: bold;
+}
+
+.date-picker {
+    -fx-font-size: 14px;
+    -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-background-color: #ae2d3c;
+    -fx-border-color: linear-gradient(to top right, #ae2d3c, #1e242e);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, .5), 10, 0, 0, 1);
+}
+
+.date-picker .arrow-button {
+    -fx-background-radius: 15px;
+}
+
+.date-picker .text,
+.date-picker .text-field {
+    -fx-font-family: "Roboto";
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-background-color: transparent;
+}
+
+.date-picker .text-field:focused,
+.date-picker .text-field:hover {
+    -fx-background-color: white;
+    -fx-text-fill: #ae2d3c;
+}
+
+ .date-picker .text-field .arrow {
+     -fx-background-color: transparent;
+ }
+
+.date-picker-popup,
+.date-picker-popup .calendar-pane,
+.date-picker-popup .month-year-pane,
+.date-picker-popup .calendar-pane .day-cell {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #ae2d3c;
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+}
