@@ -1,5 +1,5 @@
 package SearchingKapalController;
 
-public class java {
+public class SearchingKapalController {
     
 }
