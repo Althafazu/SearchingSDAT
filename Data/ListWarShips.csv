@@ -1,11 +1,11 @@
 ID;Ship;Country;Type;Tahun Produksi;Fate
-0;Aaron Ward (DD-132);USA Navy Royal Navy;Wickes-class destroyer;21-Apr-19;To UK as HMS Castleton 9 September 1940
-1;Aaron Ward (DD-483);USA Navy;Gleaves-class destroyer;04-Mar-42;Sunk 7 April 1943[1]
-2;Aaron Ward (DM-34);USA Navy;Robert H. Smith-class destroyer-minelayer;28-Oct-44;constructive loss 30 April 1945, scrapped 1946
-3;Abbot (DD-184);USA Navy Royal Navy;Wickes-class destroyer;19-Jul-19;To UK as HMS Charlestown 23 September 1940[2]
-4;Abbot (DD-629);USA Navy;Fletcher-class destroyer;23-Apr-43;Decommissioned 1965, scrapped 1975[3]
+0;Aaron Wardï¿½(DD-132);USA Navyï¿½Royal Navy;Wickes-class destroyer;21-Apr-19;To UK as HMSï¿½Castleton 9 September 1940
+1;Aaron Wardï¿½(DD-483);USA Navy;Gleaves-class destroyer;04-Mar-42;Sunk 7 April 1943[1]
+2;Aaron Wardï¿½(DM-34);USA Navy;Robert H. Smith-class destroyer-minelayer;28-Oct-44;constructive loss 30 April 1945, scrapped 1946
+3;Abbotï¿½(DD-184);USA Navyï¿½Royal Navy;Wickes-class destroyer;19-Jul-19;To UK as HMSï¿½Charlestown 23 September 1940[2]
+4;Abbotï¿½(DD-629);USA Navy;Fletcher-class destroyer;23-Apr-43;Decommissioned 1965, scrapped 1975[3]
 5;Abdiel;Royal Navy;Abdiel-class minelayer;15-Apr-41;Sunk 10 September 1943[4]
-6;Abel P. Upshur;USA Navy Royal Navy;Clemson-class destroyer;19-Jul-19;To UK as HMS Clare 9 September 1940
+6;Abel P. Upshur;USA Navyï¿½Royal Navy;Clemson-class destroyer;19-Jul-19;To UK as HMSï¿½Clare 9 September 1940
 7;Abercrombie;Royal Navy;Roberts-class monitor;05-May-43;Scrapped 1954[5]
 8;Abercrombie;USA Navy;John C. Butler-class destroyer escort;01-May-44;Decommissioned 1946, sunk as target 1968
 9;Abner Read;USA Navy;Fletcher-class destroyer;05-Feb-43;Sunk 1 November 1944
@@ -14,7 +14,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 12;Achates;Royal Navy;A-class destroyer;27-Mar-30;Sunk 31 December 1942
 13;Acavus;Royal Navy;MAC ship;Oct-43;Returned to merchant service post-war, renamed Iacara
 14;Acheron;Royal Navy;A-class destroyer;13-Oct-31;Sunk 17 December 1940
-15;Achilles;Royal Navy/ Royal New Zealand Navy;Leander-class light cruiser;06-Oct-33;sold to India 1948
+15;Achilles;Royal Navy/ï¿½Royal New Zealand Navy;Leander-class light cruiser;06-Oct-33;sold to India 1948
 16;Acree;USA Navy;Cannon-class destroyer escort;19-Jul-43;Decommissioned 1946, scrapped 1973
 17;Active;Royal Navy;A-class destroyer;09-Feb-30;Scrapped 1947
 18;Activity;Royal Navy;Escort carrier;15-Oct-42;Returned to merchant service April 1946, renamed Breconshire
@@ -46,9 +46,9 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 44;Alden;USA Navy;Clemson-class destroyer;24-Nov-19;Scrapped 30 November 1945
 45;Alexander J. Luke;USA Navy;Buckley-class destroyer escort;19-Feb-44;Decommissioned 1947, sunk as target 1970
 46;Alfred A. Cunningham;USA Navy;Allen M. Sumner-class destroyer;23-Nov-44;Decommissioned 1971, sunk as target 1979
-47;Alger;USA Navy Brazil;Cannon-class destroyer escort;12-Nov-43;To Brazil 10 March 1945 as Babitonga, scrapped 1964
-48;Algérie;France;Heavy cruiser;15-Sep-34;scuttled 27 November 1942
-49;Algérien;USA Navy Free France;Cannon-class destroyer escort;23-Jan-44;Scrapped Nov 1965
+47;Alger;USA Navyï¿½Brazil;Cannon-class destroyer escort;12-Nov-43;To Brazil 10 March 1945 as Babitonga, scrapped 1964
+48;Algï¿½rie;France;Heavy cruiser;15-Sep-34;scuttled 27 November 1942
+49;Algï¿½rien;USA Navyï¿½Free France;Cannon-class destroyer escort;23-Jan-44;Scrapped Nov 1965
 50;Allen M. Sumner;USA Navy;Allen M. Sumner-class destroyer;26-Jan-44;Scrapped 1974
 51;Almirante Brown;Argentina;Veinticinco de Mayo-class cruiser;11-Jul-31;Scrapped 1962
 52;Almirante Condell;Chile;Almirante Lynch-class destroyer;Jan-14;Decommissioned 1945
@@ -61,7 +61,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 59;Amastra;Royal Navy;MAC ship;Sep-43;"Returned to merchant service post-war; renamed Idas"
 60;Amazon;Royal Navy;Destroyer class prototype;05-May-27;Scrapped 25 October 1948
 61;Ambuscade;Royal Navy;Destroyer class prototype;15-Mar-27;Scrapped 1946
-62;Ameer;USA Navy Royal Navy;Ruler-class escort aircraft carrier;20-Jul-43;Returned to USN 17 January 1946, sold into merchant service 17 September 1946 as Robin Kirk
+62;Ameer;USA Navyï¿½Royal Navy;Ruler-class escort aircraft carrier;20-Jul-43;Returned to USN 17 January 1946, sold into merchant service 17 September 1946 as Robin Kirk
 63;Amesbury;USA Navy;Buckley-class destroyer escort;31-Aug-43;sold for scrap, sank under tow 1962
 64;Amethyst;Royal Navy;Modified Black Swan-class sloop;02-Nov-43;Scrapped 19 January 1957
 65;Amick;USA Navy;Cannon-class destroyer escort;26-Jul-43;To Japan 1955, to Philippines 1976, scrapped 1989
@@ -71,11 +71,11 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 69;Anderson;USA Navy;Sims-class destroyer;19-May-39;Sunk in A-bomb test 1946
 70;Andrea Doria;Italy;Andrea Doria-class battleship;13-Mar-16;Scrapped 1956
 71;Andres;USA Navy;Evarts-class destroyer escort;15-Mar-43;Scrapped 1946
-72;Annapolis;USA Navy Canada;Town-class destroyer;24-Sep-40;Scrapped 1945
+72;Annapolis;USA Navyï¿½Canada;Town-class destroyer;24-Sep-40;Scrapped 1945
 73;Anson;Royal Navy;King George V-class battleship;22-Jun-42;Scrapped 1957
 74;Antelope;Royal Navy;A-class destroyer;20-Mar-30;Scrapped 1946
-75;Anthony (H40);Royal Navy;A-class destroyer;14-Feb-30;Scrapped 1948
-76;Anthony (DD-515);USA Navy;Fletcher-class destroyer;26-Feb-43;To West Germany 1958, sunk as target 1979
+75;Anthonyï¿½(H40);Royal Navy;A-class destroyer;14-Feb-30;Scrapped 1948
+76;Anthonyï¿½(DD-515);USA Navy;Fletcher-class destroyer;26-Feb-43;To West Germany 1958, sunk as target 1979
 77;Antietam;USA Navy;Ticonderoga-class aircraft carrier;28-Jan-45;Decommissioned 8 May 1963, scrapped 1974
 78;Antiquois;Colombia;Guadiana-class destroyer;;former Douro (Portugal)
 79;Anton Schmitt;German;Type 1936 destroyer;24-Sep-39;Sunk 10 April 1940
@@ -83,7 +83,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 81;Aoba;Japan;Aoba-class heavy cruiser;20-Sep-27;Sunk 28 July 1945
 82;Apollo;Royal Navy;Abdiel-class minelayer;09-Oct-43;Scrapped 1962
 83;Aquila;Italy;aircraft carrier;;Scrapped 1952
-84;Arbiter;USA Navy Royal Navy;Ruler-class escort carrier;31-Dec-43;Returned to USN 3 March 1946, stricken 12 April 1946, sold and renamed Coracero
+84;Arbiter;USA Navyï¿½Royal Navy;Ruler-class escort carrier;31-Dec-43;Returned to USN 3 March 1946, stricken 12 April 1946, sold and renamed Coracero
 85;Archer;Royal Navy;Avenger-class escort carrier;17-Nov-41;Decommissioned 6 November 1943, became Empire Lagan aircraft ferry 15 March 1945, returned to USN 9 January 1946
 86;Arcona;German;Floating anti-aircraft battery (former light cruiser);18-May-01;Scrapped 1948/1949
 87;Ardent;Royal Navy;A-class destroyer;14-Apr-30;Sunk 8 June 1940[7]
@@ -93,54 +93,54 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 91;Arizona;USA Navy;Pennsylvania-class battleship;17-Oct-16;Sunk 7 December 1941, war memorial
 92;Ark Royal;Royal Navy;aircraft carrier;16-Dec-38;Sunk 14 November 1941
 93;Arkansas;USA Navy;Wyoming-class battleship;17-Sep-12;Sunk 25 July 1946 in A-bomb test
-94;Arkhangelsk;Royal Navy USSR;Revenge-class battleship;30-May-44;returned to Royal Navy 9 February 1949, scrapped Sep 1949
+94;Arkhangelsk;Royal Navyï¿½USSR;Revenge-class battleship;30-May-44;returned to Royal Navy 9 February 1949, scrapped Sep 1949
 95;Armando Diaz;Italy;Luigi Cadorna-class light cruiser;29-Apr-33;Sunk 25 February 1941
 96;Arrow;Royal Navy;A-class destroyer;14-Apr-30;Irreparably damaged, 1944
 97;Arteveld;Belgium;patrol boat;;Commissioned as Lorelei (Germany)
 98;Arunta;Royal Australian Navy;Tribal-class destroyer;30-Mar-42;Scrapped 1968
 99;Ashanti;Royal Navy;Tribal-class destroyer;21-Dec-38;Scrapped 1949
 100;Ashigara;Japan;Myoko-class heavy cruiser;1928;Sunk 8 June 1945
-101;Astoria (CA-34);USA Navy;New Orleans-class heavy cruiser;28-Apr-34;Sunk 9 August 1942 Battle of Savo Island
-102;Astoria (CL-90);USA Navy;Cleveland-class light cruiser;17-May-44;Scrapped 1971
+101;Astoriaï¿½(CA-34);USA Navy;New Orleans-class heavy cruiser;28-Apr-34;Sunk 9 August 1942 Battle of Savo Island
+102;Astoriaï¿½(CL-90);USA Navy;Cleveland-class light cruiser;17-May-44;Scrapped 1971
 103;Atago;Japan;Takao-class heavy cruiser;30-Mar-32;Sunk 23 October 1944
 104;Athabaskan;Royal Canadian Navy;Tribal-class destroyer;03-Feb-43;Sunk 29 April 1944
-105;Atheling;USA Navy Royal Navy;Ruler-class escort carrier;01-Aug-43;returned to US 13 December 1946
+105;Atheling;USA Navyï¿½Royal Navy;Ruler-class escort carrier;01-Aug-43;returned to US 13 December 1946
 106;Atherton;USA Navy;Cannon-class destroyer escort;29-Aug-43;To Japan 1955, to Philippines 1976, active as of 2012
-107;Atlanta (CL-51);USA Navy;Atlanta-class light cruiser;24-Dec-41;Sunk 13 November 1942 Guadalcanal
-108;Atlanta (CL-104);USA Navy;Cleveland-class light cruiser;03-Dec-44;Sunk as target 1970
+107;Atlantaï¿½(CL-51);USA Navy;Atlanta-class light cruiser;24-Dec-41;Sunk 13 November 1942 Guadalcanal
+108;Atlantaï¿½(CL-104);USA Navy;Cleveland-class light cruiser;03-Dec-44;Sunk as target 1970
 109;Atlantis;German;auxiliary cruiser;19-Dec-39;Sunk 21 November 1941
-110;Attacker;USA Navy Royal Navy;Attacker-class escort carrier;30-Sep-42;Decommissioned 5 January 1946
+110;Attacker;USA Navyï¿½Royal Navy;Attacker-class escort carrier;30-Sep-42;Decommissioned 5 January 1946
 111;Attilio Regolo;Italy;Capitani Romani-class light cruiser (also known as exploratori oceanici);Aug-42;ceded to France 1948
 112;Attu;USA Navy;Casablanca-class escort carrier;30-Jun-44;Scrapped 1947
 113;Audacity;Royal Navy;escort aircraft carrier;20-Jun-41;Sunk 21 December 1941
 114;Augusta;USA Navy;Northampton-class heavy cruiser;30-Jan-31;Scrapped 1960
-115;Aulick (DD-258);USA Navy Royal Navy;Clemson-class destroyer;26-Jul-19;To UK as HMS Burnham 8 October 1940
-116;Aulick (DD-569);USA Navy;Fletcher-class destroyer;27-Oct-42;To Greece 1959, scrapped 1997
+115;Aulickï¿½(DD-258);USA Navyï¿½Royal Navy;Clemson-class destroyer;26-Jul-19;To UK as HMSï¿½Burnham 8 October 1940
+116;Aulickï¿½(DD-569);USA Navy;Fletcher-class destroyer;27-Oct-42;To Greece 1959, scrapped 1997
 117;Ault;USA Navy;Allen M. Sumner-class destroyer;31-May-44;Scrapped 1974
 118;Aurora;USSR;Protected cruiser;29-Jul-03;In 1957 became a museum ship.
 119;Austin;USA Navy;Evarts-class destroyer escort;13-Feb-43;Scrapped 1947
 120;Australia;Royal Australian Navy;County-class heavy cruiser;24-Apr-28;Scrapped 1955
 121;Avenger;Royal Navy;Avenger-class escort carrier;02-Mar-42;Sunk 15 November 1942
-122;Aventure;Royal Navy Free France;River-class frigate;21-Jan-44;Decommissioned 1964
+122;Aventure;Royal Navyï¿½Free France;River-class frigate;21-Jan-44;Decommissioned 1964
 123;Ayanami;Japan;Fubuki-class destroyer;30-Apr-30;Sunk 15 November 1942
 124;Aylwin;USA Navy;Farragut-class destroyer;01-Mar-35;Scrapped 1947
 125;Babbitt;USA;Wickes-class destroyer;24-Oct-19;scrapped 1946
-126;Babitonga;USA Brazil;Cannon-class destroyer escort;10-Mar-45;Decommissioned 1964
+126;Babitonga;USAï¿½Brazil;Cannon-class destroyer escort;10-Mar-45;Decommissioned 1964
 127;Bache;USA;Fletcher-class destroyer;14-Nov-42;scrapped 1968
 128;Badger;USA;Wickes-class destroyer;29-May-19;scrapped 1945
-129;Baependi;USA Brazil;Cannon-class destroyer escort;19-Dec-44;Decommissioned 1973
+129;Baependi;USAï¿½Brazil;Cannon-class destroyer escort;19-Dec-44;Decommissioned 1973
 130;Bagley;USA;Bagley-class destroyer;12-Jun-37;scrapped 1947
 131;Bahia;Brazil;Bahia-class light cruiser;1910;lost 4 July 1945
-132;Bailey (DD-269);USA UK;Clemson-class destroyer;27-Jun-19;to UK as HMS Reading 26 November 1940
-133;Bailey (DD-492);USA;Benson-class destroyer;11-May-42;decommissioned 1946, sunk as target 1969
+132;Baileyï¿½(DD-269);USAï¿½UK;Clemson-class destroyer;27-Jun-19;to UK as HMSï¿½Reading 26 November 1940
+133;Baileyï¿½(DD-492);USA;Benson-class destroyer;11-May-42;decommissioned 1946, sunk as target 1969
 134;Bainbridge;USA;Clemson-class destroyer;09-Feb-21;scrapped 1945
 135;Bairoko;USA;Commencement Bay-class escort carrier;16-Jul-45;decommissioned 1955, scrapped 1960
 136;Baker;USA;Cannon-class destroyer escort;23-Dec-43;to France 1952, sunk as target 1970
 137;Balch;USA;Porter-class destroyer leader;20-Oct-36;scrapped 1946
 138;Baldwin;USA;Gleaves-class destroyer;30-Apr-43;decommissioned 1946, scuttled 1961
 139;Baltimore;USA;Baltimore-class heavy cruiser;15-Apr-43;decommissioned 2 July 1954, scrapped 1972
-140;Bancroft (DD-256);USA Canada;Clemson-class destroyer;30-Jun-19;to Canada as HMCS St. Francis 24 September 1940
-141;Bancroft (DD-598);USA;Benson-class destroyer;30-Apr-42;decommissioned 1946, scrapped 1973
+140;Bancroftï¿½(DD-256);USAï¿½Canada;Clemson-class destroyer;30-Jun-19;to Canada as HMCSï¿½St. Francis 24 September 1940
+141;Bancroftï¿½(DD-598);USA;Benson-class destroyer;30-Apr-42;decommissioned 1946, scrapped 1973
 142;Bangust;USA;Cannon-class destroyer escort;30-Oct-43;to Peru 1952, scrapped 1979
 143;Barb;USA;Gato-class submarine;02-Apr-42;sold to Italy as Enrico Tazzoli 1954, scrapped 1973
 144;Barber;USA;Buckley-class destroyer escort;10-Oct-43;to Mexico 1969, struck 2001
@@ -153,29 +153,29 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 151;Barr;USA;Buckley-class destroyer escort;16-Feb-44;sunk as target 1963
 152;Barry;USA;Clemson-class destroyer;15-Nov-21;sunk 21 June 1945
 153;Bartolomeo Colleoni;Italy;Giussano-class light cruiser;10-Feb-32;Sunk 19 July 1940
-154;Barton (DD-599);USA;Benson-class destroyer;29-May-42;sunk 13 November 1942
-155;Barton (DD-722);USA;Allen M. Sumner-class destroyer;30-Dec-43;sunk as target 1969
+154;Bartonï¿½(DD-599);USA;Benson-class destroyer;29-May-42;sunk 13 November 1942
+155;Bartonï¿½(DD-722);USA;Allen M. Sumner-class destroyer;30-Dec-43;sunk as target 1969
 156;Basilisk;UK;B-class destroyer;04-Mar-31;sunk 1 June 1940
-157;HMAS Bataan;Australia;Tribal-class destroyer;25-May-45;scrapped 1958
-158;USS Bataan;USA;Independence-class aircraft carrier;17-Nov-43;decommissioned 9 April 1954, scrapped 1960
+157;HMASï¿½Bataan;Australia;Tribal-class destroyer;25-May-45;scrapped 1958
+158;USSï¿½Bataan;USA;Independence-class aircraft carrier;17-Nov-43;decommissioned 9 April 1954, scrapped 1960
 159;Bates;USA;Buckley-class destroyer escort;13-Sep-43;sunk by kamikazes 25 May 1945
-160;Bath;USA UK Norway;Town-class destroyer;23-Sep-40;Sunk on 19 August 1941
-161;Battler;USA UK;Attacker-class escort carrier;31-Oct-42;Returned to USN 12 February 1946, scrapped May 1946
-162;Bauru;USA Brazil;Cannon-class destroyer escort;15-Aug-44;Decommissioned 17 September 1981, museum ship
+160;Bath;USAï¿½UKï¿½Norway;Town-class destroyer;23-Sep-40;Sunk on 19 August 1941
+161;Battler;USAï¿½UK;Attacker-class escort carrier;31-Oct-42;Returned to USN 12 February 1946, scrapped May 1946
+162;Bauru;USAï¿½Brazil;Cannon-class destroyer escort;15-Aug-44;Decommissioned 17 September 1981, museum ship
 163;Beagle;UK;B-class destroyer;09-Apr-31;scrapped Jan 1946
 164;Beale;USA;Fletcher-class destroyer;23-Dec-42;sunk as target 1969
-165;Béarn;France Free France;aircraft carrier;May-27;stricken Nov 1966, scrapped Mar 1967
+165;Bï¿½arn;Franceï¿½Free France;aircraft carrier;May-27;stricken Nov 1966, scrapped Mar 1967
 166;Bearss;USA;Fletcher-class destroyer;12-Apr-44;decommissioned 1963, scrapped 1976
-167;Beatty (DD-640);USA;Gleaves-class destroyer;07-May-42;sunk 6 November 1943
-168;Beatty (DD-756);USA;Allen M. Sumner-class destroyer;31-Mar-45;to Venezuela 1972, scrapped 1981
+167;Beattyï¿½(DD-640);USA;Gleaves-class destroyer;07-May-42;sunk 6 November 1943
+168;Beattyï¿½(DD-756);USA;Allen M. Sumner-class destroyer;31-Mar-45;to Venezuela 1972, scrapped 1981
 169;Bebas;USA;Evarts-class destroyer escort;15-May-43;scrapped 1945
 171;Bedouin;UK;Tribal-class destroyer;15-Mar-39;Sunk 15 June 1942
 173;Belfast;UK;Town-class cruiser;05-Aug-39;Museum ship since 21 October 1971 moored in London next to Tower Bridge
 174;Bell;USA;Fletcher-class destroyer;04-Mar-43;decommissioned 1946, sunk as target 1975
 175;Belleau Wood;USA;Independence-class aircraft carrier;31-Mar-43;"decommissioned 13 January 1947, transferred to France as Bois Belleau; scrapped 1961"
 178;Bengal;India;Bathurst-class minesweeper;08-Aug-42;Decommissioned 1960
-179;Benham (DD-397);USA;Benham-class destroyer;02-Feb-39;sunk 15 November 1942
-180;Benham (DD-796);USA;Fletcher-class destroyer;20-Dec-43;to Peru 1960, scrapped 1980
+179;Benhamï¿½(DD-397);USA;Benham-class destroyer;02-Feb-39;sunk 15 November 1942
+180;Benhamï¿½(DD-796);USA;Fletcher-class destroyer;20-Dec-43;to Peru 1960, scrapped 1980
 181;Benner;USA;Gearing-class destroyer;13-Feb-45;scrapped 1975
 182;Bennett;USA;Fletcher-class destroyer;09-Feb-43;to Brazil 1959, scrapped 1978
 183;Bennington;USA;Essex-class aircraft carrier;06-Aug-44;decommissioned 15 January 1970, scrapped 1994
@@ -187,8 +187,8 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 191;Biddle;USA;Wickes-class destroyer;22-Apr-19;scrapped 1946
 192;Bideford;UK;Shoreham-class sloop;23-Feb-32;Sold 14 September 1947
 193;Biloxi;USA;Cleveland-class light cruiser;31-Aug-43;Scrapped 1962
-194;HMS Birmingham;UK;Southampton-class light cruiser;18-Nov-37;scrapped 1960
-195;USS Birmingham;USA;Cleveland-class light cruiser;29-Jan-43;Scrapped 1959
+194;HMSï¿½Birmingham;UK;Southampton-class light cruiser;18-Nov-37;scrapped 1960
+195;USSï¿½Birmingham;USA;Cleveland-class light cruiser;29-Jan-43;Scrapped 1959
 196;Bismarck;German;Bismarck-class battleship;24-Aug-40;sunk 27 May 1941
 197;Bismarck Sea;USA;Casablanca-class escort carrier;20-May-44;sunk 21 February 1945
 199;Bivin;USA;John C. Butler-class destroyer escort;31-Oct-44;decommissioned 1947, sunk as target 1969
@@ -198,11 +198,11 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 203;Blakeley;USA;Wickes-class destroyer;08-May-19;scrapped 1945
 204;Blanche;UK;B-class destroyer;14-Feb-31;sunk 13 November 1939
 206;Blessman;USA;Buckley-class destroyer escort;19-Sep-43;to Taiwan 1967, scrapped 1995
-207;Block Island (CVE-21);USA;Bogue-class escort carrier;08-Mar-43;Sunk 29 May 1944
-208;Block Island (CVE-106);USA;Commencement Bay-class escort carrier;30-Dec-44;decommissioned 1954, scrapped 1960
-209;Blücher;German;Admiral Hipper-class heavy cruiser;20-Sep-39;sunk 9 April 1940
-210;Blue (DD-387);USA;Bagley-class destroyer;14-Aug-37;sunk 22 August 1942
-211;Blue (DD-744);USA;Allen M. Sumner-class destroyer;20-Mar-44;sunk as target 1974
+207;Block Islandï¿½(CVE-21);USA;Bogue-class escort carrier;08-Mar-43;Sunk 29 May 1944
+208;Block Islandï¿½(CVE-106);USA;Commencement Bay-class escort carrier;30-Dec-44;decommissioned 1954, scrapped 1960
+209;Blï¿½cher;German;Admiral Hipper-class heavy cruiser;20-Sep-39;sunk 9 April 1940
+210;Blueï¿½(DD-387);USA;Bagley-class destroyer;14-Aug-37;sunk 22 August 1942
+211;Blueï¿½(DD-744);USA;Allen M. Sumner-class destroyer;20-Mar-44;sunk as target 1974
 212;B?yskawica;Poland;Grom-class destroyer;25-Nov-37;decommissioned 1 May 1976, preserved as museum ship
 213;Boadicea;UK;B-class destroyer;07-Apr-31;sunk 13 June 1944
 215;Boggs;USA;Wickes class destroyer-minesweeper;23-Sep-18;scrapped 1946
@@ -225,11 +225,11 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 232;Boyd;USA;Fletcher-class destroyer;08-May-43;to Turkey 1969, scrapped 1981
 233;Boyle;USA;Benson-class destroyer;15-Aug-42;decommissioned 1946, sunk as target 1973
 234;Brackett;USA;Evarts class destroyer escort;18-Oct-43;scrapped 1947
-235;Bracui;USA Brazil;Cannon-class destroyer escort;15-Aug-44;Decommissioned 11 July 1972
-236;HMS Bradford;USA UK;Town class destroyer;08-Oct-40;scrapped 1946
+235;Bracui;USAï¿½Brazil;Cannon-class destroyer escort;15-Aug-44;Decommissioned 11 July 1972
+236;HMS Bradford;USAï¿½UK;Town class destroyer;08-Oct-40;scrapped 1946
 237;Bradford;USA;Fletcher-class destroyer;12-Jun-43;to Greece 1962, scrapped 1981
 238;Braine;USA;Fletcher-class destroyer;11-May-43;to Argentina 1971, sunk as target 1983
-239;Branch;USA UK;Clemson class destroyer;26-Jul-20;to UK 8 October 1940 as HMS Beverly
+239;Branch;USAï¿½UK;Clemson class destroyer;26-Jul-20;to UK 8 October 1940 as HMS Beverly
 240;Brandenburg;German;minelayer;01-May-43;sunk 21 September 1943
 241;Brazen;UK;B-class destroyer;08-Apr-31;sunk 20 July 1940
 242;Breckinridge;USA;Wickes class destroyer;27-Feb-19;scrapped 1946
@@ -240,13 +240,13 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 247;Bretagne;France;Bretagne-class battleship;Sep-15;sunk 3 July 1940
 248;Breton;USA;Bogue-class escort carrier;12-Apr-43;decommissioned 1946, scrapped 1972
 249;Bright;USA;Cannon class destroyer escort;30-Jun-44;to France 1950, scrapped 1965
-250;Brighton;USA UK USSR;Town class destroyer;23-Sep-40;to USSR as Zharki 16 July 1944
+250;Brighton;USAï¿½UKï¿½USSR;Town class destroyer;23-Sep-40;to USSR as Zharki 16 July 1944
 251;Brilliant;UK;B-class destroyer;21-Feb-31;scrapped Aug 1947
 252;Brister;USA;Edsall class destroyer escort;30-Nov-43;scrapped 1968
 253;Bristol (I);USA;Gleaves class destroyer;22-Oct-41;sunk 13 October 1943
 254;Bristol (II);USA;Sumner class destroyer;17-Mar-45;to Taiwan 1969, scrapped 1993
-255;Broadwater;USA UK;Town class destroyer;09-Oct-40;sunk 18 October 1941
-256;Broadway;USA UK;Town class destroyer;08-Oct-40;scrapped 1947
+255;Broadwater;USAï¿½UK;Town class destroyer;09-Oct-40;sunk 18 October 1941
+256;Broadway;USAï¿½UK;Town class destroyer;08-Oct-40;scrapped 1947
 257;Bronstein;USA;Cannon class destroyer escort;13-Dec-43;to Uruguay 1952, scrapped 1988
 258;Brooklyn;USA;Brooklyn-class light cruiser;30-Sep-37;Decommissioned 3 January 1947, sold to Chile. Sank in Pacific 1992
 259;Brooks;USA;Clemson class destroyer;18-Jun-20;constructive loss 6 January 1945, scrapped
@@ -256,7 +256,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 263;Brownson;USA;Fletcher class destroyer;03-Feb-43;sunk 26 December 1943
 265;Brush;USA;Sumner class destroyer;17-Apr-44;to Taiwan 1969
 266;Bryant;USA;Fletcher-class destroyer;04-Dec-43;decommissioned 1947, sunk as a target 1969
-267;Buchanan (DD-131);USA UK;Wickes-class destroyer;20-Jan-19;to UK as HMS Campbeltown 9 September 1940, expended as bomb-ship at St Nazaire 29 March 1942
+267;Buchananï¿½(DD-131);USAï¿½UK;Wickes-class destroyer;20-Jan-19;to UK as HMSï¿½Campbeltown 9 September 1940, expended as bomb-ship at St Nazaire 29 March 1942
 268;Buchanan (II);USA;Gleaves class destroyer;21-Mar-42;to Turkey 1949, scrapped 1976
 269;Buck;USA;Sims-class destroyer;15-May-40;sunk 9 October 1943
 270;Buckley;USA;Buckley class destroyer escort;30-Apr-43;scrapped 1969
@@ -269,14 +269,14 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 277;Bunker Hill;USA;Essex-class aircraft carrier;24-May-43;decommissioned 9 January 1947, scrapped 1973
 278;Burden R. Hastings;USA;Evarts class destroyer escort;01-May-43;scrapped 1946
 279;Burke;USA;Buckley class destroyer escort;20-Jul-43;to Colombia 1968, scrapped 1974
-280;Burnham;USA UK;Town class destroyer;08-Oct-40;scrapped 1948
+280;Burnham;USAï¿½UK;Town class destroyer;08-Oct-40;scrapped 1948
 281;Burns;USA;Fletcher-class destroyer;03-Apr-43;decommissioned 1946, sunk as target 1974
 282;Burrows;USA;Cannon class destroyer escort;19-Dec-43;to Netherlands 1950, scrapped 1968
-283;Burwell;USA UK;Town class destroyer;08-Oct-40;scrapped 1947
+283;Burwell;USAï¿½UK;Town class destroyer;08-Oct-40;scrapped 1947
 284;Burza;Poland;Wicher class destroyer;10-Jul-32;Scrapped 1977
 285;Bush;USA;Fletcher-class destroyer;10-May-43;sunk 6 April 1945
 286;Butler;USA;Gleaves class destroyer;15-Aug-42;scrapped 1948
-287;Buxton;USA UK Canada;Town-class destroyer;Aug-42;scrapped 1945
+287;Buxton;USAï¿½UKï¿½Canada;Town-class destroyer;Aug-42;scrapped 1945
 288;Cabana;USA;Evarts class destroyer escort;09-Jul-43;scrapped 1947
 289;Cabot;USA;Independence class light carrier;24-Jul-43;decommissioned 21 January 1955, sold to Spain as Dedalo 1967, scrapped 2002
 290;Caio Duilio;Italy;Andrea Doria-class battleship;1915;1956
@@ -284,20 +284,20 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 292;Calcaterra;USA;Edsall class destroyer escort;17-Nov-43;scrapped 1974
 293;Calcutta;UK;C class light cruiser;21-Aug-19;lost 1 June 1941
 294;Caldas;Colombia;destroyer;;
-295;HMS/HMCS Caldwell;USA UK Canada;Town class destroyer;24-Sep-40;scrapped 1944
+295;HMS/HMCS Caldwell;USAï¿½UKï¿½Canada;Town class destroyer;24-Sep-40;scrapped 1944
 296;USS Caldwell;USA;Benson class destroyer;10-Jun-42;decommissioned 1946, scrapped 1966
 297;Caledon;UK;C-class cruiser;06-Mar-17;scrapped 1948
 298;California;USA;Tennessee-class battleship;10-Aug-21;Decommissioned 14 February 1947, scrapped 1959
 299;Callaghan;USA;Fletcher-class destroyer;27-Nov-43;sunk 28 July 1945
 300;Calypso;UK;C class light cruiser;06-Mar-17;scrapped Jan 1948
-301;Cameron;USA UK;Town class destroyer;24-Sep-40;constructive loss 5 December 1940
+301;Cameron;USAï¿½UK;Town class destroyer;24-Sep-40;constructive loss 5 December 1940
 302;Camp;USA;Edsall class destroyer escort;16-Sep-43;to South Vietnam 1971, to Philippines 1976
 303;Campania;UK;escort aircraft carrier;07-Mar-44;Decommissioned 30 December 1945, scrapped 1955
-304;Campbeltown;USA UK Netherlands;Town class destroyer;1941;expended as bomb-ship at St Nazaire, 29 March 1942
+304;Campbeltown;USAï¿½UKï¿½Netherlands;Town class destroyer;1941;expended as bomb-ship at St Nazaire, 29 March 1942
 305;HMAS Canberra;Australia;County class heavy cruiser;10-Jul-28;scuttled 9 August 1942
 306;USS Canberra;USA;Baltimore class heavy cruiser;14-Oct-43;decommissioned 1970, scrapped 1980
 307;Canfield;USA;Evarts class destroyer escort;22-Jul-43;scrapped 1947
-308;Cannon;USA Brazil;Cannon class destroyer escort;26-Sep-43;to Brazil 19 December 1944 as Baependi
+308;Cannon;USAï¿½Brazil;Cannon class destroyer escort;26-Sep-43;to Brazil 19 December 1944 as Baependi
 309;Cape Esperance;USA;Casablanca-class escort carrier;09-Apr-44;scrapped 1959
 310;Cape Gloucester;USA;Commencement Bay-class escort carrier;05-Mar-45;decommissioned 1946, scrapped 1971
 311;Caperton;USA;Fletcher-class destroyer;30-Jun-43;decommissioned 1960, sunk as target
@@ -318,7 +318,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 326;Case;USA;Mahan class destroyer;15-Sep-36;scrapped 1948
 327;Cassin;USA;Mahan class destroyer;21-Aug-36;"destroyed 7 December 1941 but ""rebuilt,"" scrapped 1948"
 328;Cassin Young;USA;Fletcher-class destroyer;31-Dec-43;decommissioned 1960, museum ship at Boston, MA
-329;Castleton;USA UK;Town class destroyer;09-Sep-40;scrapped 1947
+329;Castleton;USAï¿½UK;Town class destroyer;09-Sep-40;scrapped 1947
 330;Catamarca;Argentina;Catamarca class destroyer;1912;Sold 1959
 331;Cates;USA;Cannon class destroyer escort;15-Dec-43;to France 1950, scrapped 1959
 332;Cauvery;India;Modified Black Swan class sloop;;
@@ -333,7 +333,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 341;Champlin;USA;Benson class destroyer;12-Sep-42;decommissioned 1947, scrapped 1972
 342;Chao Ho;China;Chao Ho class cruiser;23-Oct-11;sunk 28 September 1937
 343;Chandler;USA;Clemson class destroyer-minesweeper;05-Sep-19;scrapped 1946
-344;Charger;UK/ USA;Avenger class;02-Oct-41;to USN 4 October 1941, sold as merchant 1947
+344;Charger;UK/ï¿½USA;Avenger class;02-Oct-41;to USN 4 October 1941, sold as merchant 1947
 345;Charles Ausburne;USA;Fletcher-class destroyer;24-Nov-42;to West Germany 1960, scrapped 1968
 346;Charles E. Brannon;USA;Butler class destroyer escort;01-Nov-44;decommissioned 1960, scrapped 1969
 347;Charles F. Hughes;USA;Benson class destroyer;05-Sep-40;decommissioned 1946, sunk as target 1969
@@ -344,19 +344,19 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 352;Charles R. Greer;USA;Evarts class destroyer escort;25-Jun-43;scrapped 1947
 353;Charles R. Ware;USA;Gearing class destroyer;21-Jul-45;decommissioned 1974, sunk as target 1981
 354;Charles S. Sperry;USA;Sumner class destroyer;17-May-44;to Chile 1974, scrapped 1990
-355;Charlestown;USA UK;Town class destroyer;23-Sep-40;scrapped 1947[2]
+355;Charlestown;USAï¿½UK;Town class destroyer;23-Sep-40;scrapped 1947[2]
 356;Charrette;USA;Fletcher-class destroyer;18-May-43;to Greece 1959, museum ship at Athens
 357;Chase;USA;Buckley class destroyer escort;18-Jul-43;scrapped 1946
 358;Chaser;UK;Attacker class escort aircraft carrier;09-Apr-43;Returned to USN 12 May 1946, sold into merchant service 20 December 1946 as Aagtekerk
 359;Chatelain;USA;Edsall class destroyer escort;22-Sep-43;scrapped 1974
 360;Chauncey;USA;Fletcher-class destroyer;31-May-43;decommissioned 1954, scrapped 1972
-361;Chelsea;USA UK Canada USSR;Town class destroyer;09-Sep-40;to Canada Nov 1942, to USSR July 1944 as Derzkiy
+361;Chelsea;USAï¿½UKï¿½Canadaï¿½USSR;Town class destroyer;09-Sep-40;to Canada Nov 1942, to USSR July 1944 as Derzkiy
 362;Chenango;USA;Sangamon-class escort carrier;20-Jun-41;decommissioned 1946, scrapped 1960
 363;Chervona Ukraina;USSR;Svetlana class light cruiser;03-Oct-13;Sunk 12 November 1941
 364;Chester;USA;Northampton class heavy cruiser;24-Jun-30;scrapped 1959
 365;Chester T. O'Brien;USA;Butler class destroyer escort;03-Jul-44;decommissioned 1959, scrapped 1974
-366;Chesterfield;USA UK;Town class destroyer;09-Sep-40;scrapped 1947
-367;Chevalier (DD-451);USA;Fletcher-class destroyer;20-Jun-42;sunk 7 October 1943
+366;Chesterfield;USAï¿½UK;Town class destroyer;09-Sep-40;scrapped 1947
+367;Chevalierï¿½(DD-451);USA;Fletcher-class destroyer;20-Jun-42;sunk 7 October 1943
 368;Chevalier (II);USA;Gearing class destroyer;09-Jan-45;to South Korea 1977
 369;Chew;USA;Wickes class destroyer;12-Dec-18;scrapped 1946
 370;Chicago (I);USA;Northampton class heavy cruiser;09-Mar-31;sunk 30 January 1943
@@ -365,15 +365,15 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 373;Chitose;Japan;Chitose class aircraft carrier;25-Jul-38;sunk 25 October 1944
 374;Chiyoda;Japan;Chitose class aircraft carrier;15-Dec-38;sunk 25 October 1944
 375;Ch?kai;Japan;Takao class heavy cruiser;1932;sunk 25 October 1944
-376;Christopher;USA Brazil;Cannon class destroyer escort;23-Oct-43;to Brazil 19 December 1944 as Benevente
-377;Churchill;USA UK USSR;Town class destroyer;09-Sep-40;to USSR as Deyatelny 16 July 1944, sunk 16 January 1945
+376;Christopher;USAï¿½Brazil;Cannon class destroyer escort;23-Oct-43;to Brazil 19 December 1944 as Benevente
+377;Churchill;USAï¿½UKï¿½USSR;Town class destroyer;09-Sep-40;to USSR as Deyatelny 16 July 1944, sunk 16 January 1945
 378;Ch?y?;Japan;Taiy? class aircraft carrier;25-Nov-42;sunk 4 December 1943
 379;Cincinnati;USA;Omaha class light cruiser;01-Jan-24;scrapped 1946
-380;Clare;USA UK;Town class destroyer;09-Sep-40;scrapped 1945
+380;Clare;USAï¿½UK;Town class destroyer;09-Sep-40;scrapped 1945
 381;Clarence K. Bronson;USA;Fletcher-class destroyer;11-Jun-43;to Turkey 1967, scrapped 1987
 382;Clarence L. Evans;USA;Cannon class destroyer escort;25-Jun-44;to France 1952, scrapped 1960
 383;Clark;USA;Porter class destroyer leader;20-May-36;scrapped 1946
-384;Claxton (I);USA/ UK/ Canada;Wickes class destroyer;13-Sep-19;to UK 5 December 1940 as HMS (later HMCS) Salisbury
+384;Claxton (I);USA/ï¿½UK/ï¿½Canada;Wickes class destroyer;13-Sep-19;to UK 5 December 1940 as HMS (later HMCS) Salisbury
 385;Claxton;USA;Fletcher-class destroyer;08-Dec-42;To West Germany 1959
 386;Clemson;USA;Clemson class sea plane tender, destroyer & high speed transport;29-Dec-19;Decommissioned 12 October 1945
 387;Cleveland;USA;Cleveland class light cruiser;15-Jun-42;decommissioned 7 February 1947, scrapped 1960
@@ -390,11 +390,11 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 398;Colbert;France;Suffren class heavy cruiser;04-Mar-31;scuttled 27 November 1942
 399;Cole;USA;Wickes class destroyer;19-Jun-19;scrapped 1947
 400;Colhoun (I);USA;Wickes class destroyer, converted to a fast transport;13-Jun-18;sunk 30 August 1942
-401;Colhoun (DD-801);USA;Fletcher-class destroyer;08-Jul-44;Sunk 6 April 1945
+401;Colhounï¿½(DD-801);USA;Fletcher-class destroyer;08-Jul-44;Sunk 6 April 1945
 402;Collett;USA;Sumner class destroyer;16-May-44;to Argentina 1974
 403;Colombo;UK;C class light cruiser;18-Jun-19;scrapped 1948
 404;Colossus;UK;Colossus class aircraft carrier;16-Dec-44;transferred to France, renamed Arromanches 6 August 1946
-405;HMCS Columbia;USA Canada;Town class destroyer;24-Sep-40;scrapped 1945
+405;HMCS Columbia;USAï¿½Canada;Town class destroyer;24-Sep-40;scrapped 1945
 406;USS Columbia;USA;Cleveland class light cruiser;29-Jul-42;scrapped 1959
 407;Columbus;USA;Baltimore class heavy cruiser;08-Jun-45;converted to missile cruiser 1962, scrapped 1977
 408;Combattante;Free France;Hunt class Escort destroyer;30-Dec-42;sunk 23 February 1945
@@ -403,14 +403,14 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 411;Concord;USA;Omaha class light cruiser;03-Nov-23;scrapped 1947
 412;Cone;USA;Gearing class destroyer;18-Aug-45;to Pakistan 1982, scrapped 1998
 413;Conklin;USA;Butler class destroyer escort;21-Apr-44;decommissioned 1946, scrapped 1972
-414;Conner (I);USA/ UK;Caldwell class destroyer;12-Jan-18;To UK as HMS Leeds, 23 October 1940
-415;Conner (DD-582);USA;Fletcher-class destroyer;08-Jun-43;to Greece 1959, scrapped 1997
+414;Conner (I);USA/ï¿½UK;Caldwell class destroyer;12-Jan-18;To UK as HMS Leeds, 23 October 1940
+415;Connerï¿½(DD-582);USA;Fletcher-class destroyer;08-Jun-43;to Greece 1959, scrapped 1997
 416;Connolly;USA;Evarts class destroyer escort;08-Jul-44;scrapped 1947
-417;ORP Conrad ex. HMS Danae;UK, then  Poland;D class cruiser;04-Oct-44;returned to Royal Navy 28 September 1946, scrapped Mar 1948
+417;ORP Conrad ex. HMS Danae;UK, then ï¿½Poland;D class cruiser;04-Oct-44;returned to Royal Navy 28 September 1946, scrapped Mar 1948
 418;Conte di Cavour;Italy;Conte di Cavour-class battleship;1915;Decommissioned 18 May 1928
 419;Converse;USA;Fletcher-class destroyer;20-Nov-42;to Spain 1959, scrapped 1988
-420;Conway (ex-Craven) (I);USA/ UK;Caldwell class destroyer;19-Oct-18;To UK as HMS Lewes, 23 October 1940
-421;Conway (DD-507);USA;Fletcher-class destroyer;09-Oct-42;sunk as target 1970
+420;Conway (ex-Craven) (I);USA/ï¿½UK;Caldwell class destroyer;19-Oct-18;To UK as HMS Lewes, 23 October 1940
+421;Conwayï¿½(DD-507);USA;Fletcher-class destroyer;09-Oct-42;sunk as target 1970
 422;Cony;USA;Fletcher-class destroyer;30-Oct-42;sunk as target 1970
 423;Conyngham;USA;Mahan class destroyer;04-Nov-36;scuttled 1948 after A-bomb test
 424;Coolbaugh;USA;Buckley class destroyer escort;15-Oct-43;decommissioned 1960, scrapped 1973
@@ -428,21 +428,21 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 436;Corrientes;Argentina;Buenos Aires class destroyer;;Lost 3 October 1941
 437;Cotten;USA;Fletcher-class destroyer;24-Jul-43;decommissioned 1960, scrapped 1975
 438;Courageous;UK;Glorious-class aircraft carrier;04-Nov-16;sunk 17 September 1939
-439;Courbet;France Free France;Courbet-class battleship;Nov-13;"scuttled as a ""Gooseberry"" breakwater 6 June 1944"
-440;Cowell (I);USA/ UK/ USSR;Wickes class destroyer;17-Mar-19;to RN 23 September 1940 as HMS Brighton (later to USSR as Zharkiy)
-441;Cowell (DD-547);USA;Fletcher-class destroyer;23-Aug-43;to Argentina 1971, scrapped 1982
+439;Courbet;Franceï¿½Free France;Courbet-class battleship;Nov-13;"scuttled as a ""Gooseberry"" breakwater 6 June 1944"
+440;Cowell (I);USA/ï¿½UK/ï¿½USSR;Wickes class destroyer;17-Mar-19;to RN 23 September 1940 as HMS Brighton (later to USSR as Zharkiy)
+441;Cowellï¿½(DD-547);USA;Fletcher-class destroyer;23-Aug-43;to Argentina 1971, scrapped 1982
 442;Cowpens;USA;Independence class light carrier;28-May-43;decommissioned 13 January 1947, scrapped 1960
 443;Coventry;UK;C class light cruiser;21-Feb-18;lost 14 September 1942
 444;Cowie;USA;Gleaves class destroyer;01-Jun-42;decommissioned 1947, scrapped 1972
 445;Crane;USA;Wickes class destroyer;18-Apr-19;scrapped 1946
 446;Craven;USA;Gridley class destroyer;02-Sep-37;scrapped 1947
 447;Croatan;USA;Bogue-class escort carrier;28-Apr-43;decommissioned 1946, scrapped 1971
-448;Croix de Lorraine;UK Free France;River class frigate;25-Sep-44;Decommissioned 1961
+448;Croix de Lorraine;UKï¿½Free France;River class frigate;25-Sep-44;Decommissioned 1961
 449;Cronin;USA;Buckley class destroyer escort;05-May-44;sunk as target 1971
 450;Crosby;USA;Wickes class destroyer and destroyer-transport;24-Jan-19;scrapped 1946
 451;Cross;USA;Butler class destroyer escort;08-Jan-45;decommissioned 1958, scrapped 1968
 452;Crouter;USA;Evarts class destroyer escort;25-May-43;scrapped 1947
-453;Crowninshield;USA UK Canada USSR;Wickes class destroyer;24-Jul-19;to RN 9 September 1940 as HMS (later HMCS) Chelsea, then to USSR as Derzkiy
+453;Crowninshield;USAï¿½UKï¿½Canadaï¿½USSR;Wickes class destroyer;24-Jul-19;to RN 9 September 1940 as HMS (later HMCS) Chelsea, then to USSR as Derzkiy
 454;Crowley;USA;Evarts class destroyer escort;25-Mar-44;scrapped 1947
 455;Cuba;Cuba;sloop;1911;stricken 1971
 456;Cummings;USA;Mahan class destroyer;25-Nov-36;scrapped 1947
@@ -450,7 +450,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 458;Curlew;UK;C class light cruiser;14-Dec-17;lost 26 May 1940
 459;Currier;USA;Buckley class destroyer escort;01-Feb-44;sunk as target 1967
 460;Cushing (I);USA;Mahan class destroyer;28-Aug-36;sunk 13 November 1942
-461;Cushing (DD-797);USA;Fletcher-class destroyer;17-Jan-44;to Brazil 1961, scrapped 1982
+461;Cushingï¿½(DD-797);USA;Fletcher-class destroyer;17-Jan-44;to Brazil 1961, scrapped 1982
 462;Dahlgren;USA;Clemson-class destroyer;06-Jan-20;scrapped 1946
 463;Dale;USA;Farragut class destroyer;17-Jun-35;scrapped 1947
 464;Dale W. Peterson;USA;Edsall-class destroyer escort;17-Feb-44;decommissioned 1946, scrapped 1972
@@ -470,8 +470,8 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 478;Day;USA;Rudderow-class destroyer escort;10-Jun-44;
 479;Dayton;USA;Cleveland class light cruiser;07-Jan-45;scrapped 1962
 480;Decatur;USA;Clemson-class destroyer;Aug-22;scrapped 1945
-481;Decker;USA China;Evarts-class destroyer escort;03-May-43;"to Republic of China as Tai Ping 28 August 1945; sunk in action 1954"
-482;Découverte;Free France;River class frigate;Feb-44;Decommissioned 1959
+481;Decker;USAï¿½China;Evarts-class destroyer escort;03-May-43;"to Republic of China as Tai Ping 28 August 1945; sunk in action 1954"
+482;Dï¿½couverte;Free France;River class frigate;Feb-44;Decommissioned 1959
 483;Decoy;UK;D-class destroyer;04-Apr-33;Transferred to RCN 12 April 1943, renamed HMCS Kootenay, broken up Jan 1946
 484;Deede;USA;Evarts-class destroyer escort;29-Jul-43;scrapped 1947
 485;De Haven (I);USA;Fletcher-class destroyer;21-Jun-42;sunk 1 February 1943
@@ -486,7 +486,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 494;De Ruyter;Netherlands;De Ruyter class cruiser;03-Oct-36;sunk 28 February 1942
 495;Despatch;UK;Danae class cruiser;02-Jun-22;scrapped 1946
 496;Detroit;USA;Omaha class light cruiser;31-Jul-23;scrapped 1946
-497;Deutschland;German;Deutschland class heavy cruiser;01-Apr-33;renamed Lützow
+497;Deutschland;German;Deutschland class heavy cruiser;01-Apr-33;renamed Lï¿½tzow
 498;Devonshire;UK;County class cruiser;18-Mar-29;scrapped Dec 1954
 499;Dewey;USA;Farragut class destroyer;14-Oct-34;scrapped 1946
 500;Dickerson;USA;Wickes-class destroyer and destroyer-transport;03-Sep-19;sunk 4 April 1945
@@ -507,13 +507,13 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 515;Downes;USA;Mahan class destroyer;15-Jan-37;"destroyed 7 December 1941 but ""rebuilt,"" scrapped 1948"
 516;Doyle;USA;Gleaves class destroyer;27-Jan-43;decommissioned 1955, scrapped 1972
 517;Doyle C. Barnes;USA;Butler-class destroyer escort;13-Jul-44;decommissioned 1947, scrapped 1973
-519;Dragon;UKthen  Poland;Danae class cruiser;Aug-18;"damaged, then used as a blockship in ""Gooseberry"" breakwater, July 1944"
+519;Dragon;UKthen ï¿½Poland;Danae class cruiser;Aug-18;"damaged, then used as a blockship in ""Gooseberry"" breakwater, July 1944"
 520;Drayton;USA;Mahan class destroyer;01-Sep-36;scrapped 1947
 521;Drexler;USA;Sumner-class destroyer;14-Nov-44;sunk 28 May 1945
 522;Drum;USA;Gato class submarine;01-Nov-41;"decommissioned 1967; museum at Mobile, Alabama"
 523;Duffy;USA;Evarts-class destroyer escort;05-Aug-43;scrapped 1947
 524;Dufilho;USA;Butler-class destroyer escort;21-Jul-44;decommissioned 1946, scrapped 1973
-525;Duguay-Trouin;France Free France;Duguay-Trouin class light cruiser;02-Nov-26;decommissioned 9 March 1952
+525;Duguay-Trouin;Franceï¿½Free France;Duguay-Trouin class light cruiser;02-Nov-26;decommissioned 9 March 1952
 526;Duke of York;UK;King George V-class battleship;28-Feb-40;scrapped 1957
 527;Duluth;USA;Cleveland class light cruiser;18-Sep-44;scrapped 1960
 528;Duncan (I);USA;Gleaves class destroyer;16-Apr-42;sunk 12 October 1942
@@ -525,7 +525,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 534;Dunvegan Castle;UK;Armed merchant cruiser;07-Sep-39;sunk 28 August 1940
 535;Dupleix;France;Suffren class heavy cruiser;07-Jul-32;scuttled 27 November 1942
 536;Du Pont;USA;Wickes-class destroyer;30-Apr-19;scrapped 1947
-537;Duquesne;France Free France;Duquesne class heavy cruiser;06-Dec-28;condemned 1955
+537;Duquesne;Franceï¿½Free France;Duquesne class heavy cruiser;06-Dec-28;condemned 1955
 538;Durban;UK;Danae-class cruiser;01-Nov-21;"""Gooseberry"" breakwater blockship, 9 June 1944"
 539;Durant;USA;Edsall-class destroyer escort;17-Feb-44;decommissioned 1964, scrapped 1974
 540;Durik;USA;Buckley-class destroyer escort;16-Nov-43;decommissioned 1946, scrapped 1967
@@ -546,7 +546,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 555;Emanuele Filiberto Duca d'Aosta;Italy;Duca d'Aosta class light cruiser;13-Jul-35;ceded to USSR 1949, renamed Kerch, scrapped in 1960s
 556;Emden;German;light cruiser;Oct-25;scuttled 3 May 1945
 557;Emerald;UK;Emerald class light cruiser;14-Jan-26;scrapped July 1948
-558;Émile Bertin;France Free France;Émile Bertin class light cruiser;28-Jan-35;scrapped 1959
+558;ï¿½mile Bertin;Franceï¿½Free France;ï¿½mile Bertin class light cruiser;28-Jan-35;scrapped 1959
 559;Emmons;USA;Gleaves class destroyer;05-Dec-41;sunk 6 April 1945
 560;Emperor;UK;Ruler class escort aircraft carrier;06-Aug-43;Returned to USN 12 February 1946, sold for scrap 26 November 1947
 561;Empire MacAlpine;UK;Empire class merchant aircraft carrier and grain carrier;14-Apr-43;"transferred to merchant service post-war; renamed Derryname"
@@ -610,16 +610,16 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 621;Fus?;Japan;Fus?-class battleship;18-Nov-15;sunk 25 October 1944
 622;Fuyuzuki;Japan;Akizuki class destroyer;30-Apr-44;scrapped and converted to breakwater 1948
 624;Gadila;Netherlands;Rapana class merchant aircraft carrier and oil tanker;1944;"returned to merchant service 1946; scrapped 1958"
-625;Gambia;UKthen  New Zealand;Fiji class light cruiser;21-Feb-42;scrapped 1968
+625;Gambia;UKthen ï¿½New Zealand;Fiji class light cruiser;21-Feb-42;scrapped 1968
 626;Gambier Bay;USA;Casablanca  class escort carrier;28-Dec-43;Sunk 25 October 1944
 627;Gamble;USA;Wickes class destroyer minelayer;29-Nov-18;Damaged beyond repair Iwo Jima 17 February 1945, scuttled Guam 16 July 1945.
 628;Gansevoort;USA;Benson class destroyer;25-Aug-42;decommissioned 1946, sunk as target 1972
-629;Garland;UKthen  Poland;G class destroyer;03-Mar-36;sold to the Netherlands 14 November 1947
+629;Garland;UKthen ï¿½Poland;G class destroyer;03-Mar-36;sold to the Netherlands 14 November 1947
 630;Gato;USA;Gato class submarine;31-Dec-41;Scrapped 25 July 1960
 631;Gelderland;Netherlands;Holland class cruiser (pantserdekschip);16-Jul-00;captured by Germany 1940, renamed Niobe, sunk 16 July 1944
 632;General Belgrano;Argentina;Garibaldi class cruiser;1896;Stricken 8 May 1947
 634;Georg Thiele;German;Type 1934 destroyer;27-Feb-37;sunk 13 April 1940
-635;George Leygues;France Free France;La Galissonnière class light cruiser;15-Nov-37;scrapped 1959
+635;George Leygues;Franceï¿½Free France;La Galissonniï¿½re class light cruiser;15-Nov-37;scrapped 1959
 636;Georgios Averof;Greece;armored cruiser;16-May-11;Decommissioned 1951, museum ship
 637;Gherardi;USA;Gleaves class destroyer;15-Sep-42;decommissioned 1955, sunk as target 1973
 638;Gillespie;USA;Benson class destroyer;18-Sep-42;decommissioned 1946, sunk as target 1973
@@ -630,7 +630,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 643;Glaisdale;Norway;Hunt class destroyer escort destroyer;12-Jun-42;renamed HNoMS Narvik 1946, scrapped 1961
 644;Gleaves;USA;Gleaves class destroyer;14-Jun-40;Sold 29 June 1972 and broken up for scrap
 645;Glennon;USA;Gleaves class destroyer;08-Oct-42;sunk 10 June 1944
-646;Gloire;France Free France;La Galissonnière class light cruiser;15-Nov-37;scrapped 1958
+646;Gloire;Franceï¿½Free France;La Galissonniï¿½re class light cruiser;15-Nov-37;scrapped 1958
 647;Glorious;UK;Glorious-class aircraft carrier;20-Apr-16;sunk 8 June 1940[7]
 648;Glory;UK;Colossus-class aircraft carrier;02-Apr-45;scrapped August 1961
 649;Gloucester;UK;Town-class light cruiser;31-Jan-39;Sunk on 22 May 1941 during the Battle of Crete[8]
@@ -663,7 +663,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 676;Hancock;USA;Ticonderoga class fleet carrier;15-Apr-44;Decommissioned 30 January 1976, scrapped
 677;Hansa;German;auxiliary cruiser;02-Feb-44;scrapped 1971
 678;Hans Lody;German;Type 1934A destroyer;13-Sep-38;scrapped 1946 - 1949
-679;Hans Lüdemann;German;Type 1936 destroyer;08-Oct-38;sunk 13 April 1940
+679;Hans Lï¿½demann;German;Type 1936 destroyer;08-Oct-38;sunk 13 April 1940
 681;Harder;USA;Gato class submarine;02-Dec-42;Sunk 24 August 1944
 682;Harding;USA;Gleaves class destroyer;25-May-43;scrapped 1947
 683;Haruna;Japan;Kong?-class battlecruiser;;sunk 28 July 1945
@@ -676,7 +676,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 690;Hekla;Denmark;light cruiser hulk;;
 691;Helm;USA;Bagley class destroyer;16-Oct-37;scrapped 1947
 692;Henley;USA;Bagley class destroyer;14-Aug-37;sunk 3 October 1943
-693;Hermann Künne;German;Type 1936 destroyer;12-Jan-39;sunk 13 April 1940
+693;Hermann Kï¿½nne;German;Type 1936 destroyer;12-Jan-39;sunk 13 April 1940
 694;Hermann Schoemann;German;Type 1934A destroyer;09-Sep-37;sunk 2 May 1942
 695;Hermes;UK;aircraft carrier;07-Jul-23;sunk 9 April 1942
 696;Herndon;USA;Gleaves class destroyer;20-Dec-42;decommissioned 1946, sunk as target 1973
@@ -700,14 +700,14 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 714;Houston (II);USA;Cleveland class light cruiser;20-Dec-43;scrapped 1959
 715;Hova;Free France;Cannon-class destroyer escort;18-Mar-44;Decommissioned May 1964
 716;Howe;UK;King George V-class battleship;28-Sep-42;scrapped 1958
-717;Huáscar;Chile;ironclad;;
+717;Huï¿½scar;Chile;ironclad;;
 718;Hughes;USA;Sims class destroyer;21-Sep-39;scuttled after A-bomb test 1948
 719;Hull;USA;Farragut class destroyer;11-Jan-35;foundered in typhoon 18 December 1944
 720;Humaita;Brazil;Humaita class submarine;20-Jul-29;Decommissioned 25 November 1950
 721;Hunter;UK;Attacker class escort aircraft carrier;09-Jan-43;Returned to USN 29 December 1945, sold into merchant service 17 January 1947 as Almdijk
 722;Huron;Canada;Tribal class destroyer;19-Jul-43;scrapped 1965
 723;Hurricane;UK;Havant class destroyer;21-Jun-40;sunk 24 December 1943
-724;Hvidbjørnen;Denmark;patrol boat;;
+724;Hvidbjï¿½rnen;Denmark;patrol boat;;
 725;Hyatt;Chile;Serrano class destroyer;;Discarded 1963
 726;Hydra;Greece;modified Freccia class destroyer;1933;sunk 22 April 1941
 727;Hy?ga;Japan;Ise-class battleship;1918;sunk 28 July 1945
@@ -737,7 +737,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 751;Jamaica;UK;Fiji-class cruiser;29-Jun-42;scrapped 1960
 752;Jarvis;USA;Bagley-class destroyer;27-Oct-37;sunk 9 August 1942
 753;Java;Netherlands;Java class cruiser;1925;sunk 27 February 1942
-754;Jean de Vienne;France;La Galissonnière-class light cruiser;10-Feb-37;scuttled 27 November 1942
+754;Jean de Vienne;France;La Galissonniï¿½re-class light cruiser;10-Feb-37;scuttled 27 November 1942
 755;Jeanne d'Arc;France;Jeanne d'Arc-class light cruiser;14-Aug-31;scrapped 1965
 756;Jeffers;USA;Gleaves-class destroyer;05-Nov-42;decommissioned 1955, scrapped 1973
 757;Jervis Bay;UK;Armed Merchant Cruiser;Oct-40;sunk 5 November 1940
@@ -780,11 +780,11 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 795;Kitakami;Japan;Kuma class light cruiser;15-Apr-21;"30 November 1945; Scrapped"
 796;Knapp;USA;Fletcher class destroyer;16-Sep-43;Decommissioned: 4 March 1957, scrapped 1972
 797;Knight;USA;Gleaves class destroyer;23-Jun-42;decommissioned 1947, sunk as target 1967
-798;Köln;German;K class light cruiser;Jan-30;sunk 3 March 1945
+798;Kï¿½ln;German;K class light cruiser;Jan-30;sunk 3 March 1945
 799;Komet;German;auxiliary cruiser;02-Jun-40;sunk 14 October 1942
 800;Kondor;German;1923 (Raubvogel) class torpedo boat;15-Jul-27;decommissioned 28 June 1944
 801;Kong?;Japan;Kong?-class battlecruiser;16-Aug-13;sunk 21 November 1944
-802;Königsberg;German;K class light cruiser;17-Apr-29;sunk 10 April 1940,at Bergen, Norway
+802;Kï¿½nigsberg;German;K class light cruiser;17-Apr-29;sunk 10 April 1940,at Bergen, Norway
 803;Kormoran;German;auxiliary cruiser;09-Oct-40;19-Nov-41
 804;Kortenaer;Netherlands;Admiralen-class destroyer;03-Sep-28;sunk 27 February 1942
 805;Kountouriotis;Greece;modified Freccia class destroyer;1933;decommissioned 1946
@@ -797,7 +797,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 812;Kuma;Japan;Kuma class light cruiser;31-Aug-20;"10 March 1944; Sunk by HMS Tally-Ho west of Penang"
 813;Kumano;Japan;Mogami class heavy cruiser;31-Oct-31;sunk 15 November 1944
 814;La Argentina;Argentina;training light cruiser;;discarded 1974
-815;La Galissonnière;France;La Galissonnière class light cruiser;01-Jan-36;scuttled 27 November 1942
+815;La Galissonniï¿½re;France;La Galissonniï¿½re class light cruiser;01-Jan-36;scuttled 27 November 1942
 816;La Rioja;Argentina;destroyer;;
 817;Laffey (I);USA;Benson class destroyer;31-Mar-42;sunk 13 November 1942
 818;Laffey (II);USA;Sumner class destroyer;08-Feb-44;decommissioned 1975, memorial at Charleston, SC
@@ -822,7 +822,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 837;Leningrad;USSR;Leningrad class destroyer;Dec-36;scrapped in 1960
 838;Leon;Greece;Wild Beast class destroyer;19-Oct-12;sunk 15 May 1941
 839;Leopard;German;1924 Raubtier class torpedo boat;01-Jun-28;sunk on 30 April 1940
-840;Léopard;Free France;Chacal class destroyer;31-Aug-40;sunk 27 May 1943
+840;Lï¿½opard;Free France;Chacal class destroyer;31-Aug-40;sunk 27 May 1943
 841;Lexington CV-2;USA;Lexington class fleet carrier;14-Dec-27;sunk 8 May 1942
 842;Lexington CV-16;USA;Essex class fleet carrier;17-Feb-43;"decommissioned 8 November 1991; museum Corpus Christi, Texas"
 843;Libertad;Argentina;coastal defense ship;;
@@ -833,7 +833,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 848;Loch Insh;UK;Loch class frigate;20-Oct-44;transferred to the Royal Malaysian Navy in 1964 and renamed KD Hang Tuah, scrapped in 1977
 849;London;UK;County class heavy cruiser;31-Jan-29;scrapped 1950
 850;Long Island;USA;Long Island class escort aircraft carrier;02-Jun-41;decommissioned 26 March 1946
-852;Lorraine;France Free France;Bretagne-class battleship;27-Jul-16;Decommissioned 17 February 1953
+852;Lorraine;Franceï¿½Free France;Bretagne-class battleship;27-Jul-16;Decommissioned 17 February 1953
 853;Los Angeles;USA;Baltimore-class heavy cruiser;22-Jul-45;scrapped 1974
 854;Lothringen;German;minelayer;Dec-41;sold to merchant service post-war
 855;Louisville;USA;Northampton class heavy cruiser;15-Jan-31;scrapped 1959
@@ -891,7 +891,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 909;Miaoulis;Greece;Hunt (Type III) class escort destroyer;25-Nov-42;Returned to Royal Navy 1959, scrapped 1960
 910;Michel;German;auxiliary cruiser;07-Sep-41;sunk 17 October 1943
 911;Mikuma;Japan;Mogami class heavy cruiser;29-Aug-35;Sunk 6 June 1942
-912;Milwaukee/Murmansk;USA,  USSR;Omaha class light cruiser;20-Apr-44;scrapped 10 December 1949
+912;Milwaukee/Murmansk;USA, ï¿½USSR;Omaha class light cruiser;20-Apr-44;scrapped 10 December 1949
 913;Minas Geraes;Brazil;Minas Geraes-class battleship;06-Jan-10;Decommissioned 20 September 1953
 914;Minegumo;Japan;Asashio class destroyer;;
 915;Minneapolis;USA;New Orleans class heavy cruiser;19-May-34;Decommissioned 10 February 1947, scrapped 1959
@@ -908,7 +908,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 926;Monaghan;USA;Farragut class destroyer;18-Apr-35;foundered in typhoon 18 December 1944
 927;Monowai;New Zealand;armed merchant cruiser;30-Aug-40;Decommissioned 18 June 1943, then landing ship
 928;Monssen;USA;Gleaves class destroyer;14-Mar-41;Sunk by Japanese warships off Guadalcanal 13 November 1942
-929;Montcalm;France Free France;La Galissonniere class light cruiser;15-Nov-37;Decommissioned 1 May 1957
+929;Montcalm;Franceï¿½Free France;La Galissonniere class light cruiser;15-Nov-37;Decommissioned 1 May 1957
 930;Montclare;UK;Submarine tender;02-Jun-42;scrapped Oct 1954
 931;Monterey;USA;Independence class light carrier;17-Jun-43;decommissioned 16 January 1956, scrapped 1971
 932;Montpelier;USA;Cleveland class light cruiser;09-Sep-42;scrapped 1960
@@ -916,7 +916,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 934;Moreno;Argentina;Rivadavia-class battleship;;scrapped Feb 1956
 935;Morris;USA;Sims class destroyer;05-Mar-40;scrapped 1947
 936;Morrison;USA;Fletcher-class destroyer;18-Dec-43;Sunk by kamikazes, 4 May 1945
-937;Möwe;German;Raubvogel class torpedoboat;01-Oct-26;sunk 15 June 1944
+937;Mï¿½we;German;Raubvogel class torpedoboat;01-Oct-26;sunk 15 June 1944
 938;Mugford;USA;Bagley class destroyer;16-Aug-37;scuttled after A-bomb test 1948
 939;Murasame;Japan;Shiratsuyu class destroyer;07-Jan-37;sunk 4 March 1943
 940;Murphy;USA;Benson class destroyer;25-Jul-42;decommissioned 1946, scrapped 1972
@@ -937,7 +937,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 955;Natori;Japan;Nagara class light cruiser;;lost 18 August 1944
 956;Natsuzuki;Japan;Akizuki class destroyer;08-Apr-45;scrapped after the war
 957;Navarinon;Greece;E-class destroyer;05-Apr-44;Returned to Royal Navy and scrapped Apr 1956
-958;HMS Nelson;UK;Nelson-class battleship;10-Sep-27;decommissioned Feb 1948, scrapped Mar 1949
+958;HMSï¿½Nelson;UK;Nelson-class battleship;10-Sep-27;decommissioned Feb 1948, scrapped Mar 1949
 959;USS Nelson;USA;Gleaves-class destroyer;26-Nov-42;decommissioned 1947, scrapped 1969
 960;Neptune;UK;Leander class light cruiser;23-Feb-34;lost 19 December 1941
 961;Nevada;USA;Nevada-class battleship;11-Mar-16;"decommissioned 29 July 1946; sunk as a target 31 July 1948"
@@ -950,12 +950,12 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 980;Northampton;USA;Northampton class heavy cruiser;17-May-30;lost 1 December 1942
 981;Noshiro;Japan;Agano class light cruiser;;Sunk 26 October 1944
 982;Nubian;UK;Tribal class destroyer;06-Dec-38;scrapped 1949
-983;Nürnberg;German;light cruiser;02-Nov-35;transferred to USSR as Admiral Makarov, scrapped 1960
+983;Nï¿½rnberg;German;light cruiser;02-Nov-35;transferred to USSR as Admiral Makarov, scrapped 1960
 984;Oakland;USA;Atlanta-class light cruiser;17-Jul-43;decommissioned 1949, scrapped 1959
 985;O'Brien;USA;Sims-class destroyer;02-Mar-40;sunk 19 October 1942
 986;Ocean;UK;Colossus-class aircraft carrier;08-Aug-45;scrapped May 1962
-987;?i;Japan;Kuma-class light cruiser;10-Oct-21;sunk by USS Flasher 19 July 1944
-988;Okinoshima;Japan;minelayer;30-Sep-36;sunk by USS S-42 12 May 1942
+987;?i;Japan;Kuma-class light cruiser;10-Oct-21;sunk by USSï¿½Flasher 19 July 1944
+988;Okinoshima;Japan;minelayer;30-Sep-36;sunk by USSï¿½S-42 12 May 1942
 989;Oklahoma;USA;Nevada-class battleship;02-May-16;"sunk at Pearl Harbor 7 December 1941; raised in 1943 and stricken in 1944; sank under tow in Pacific 1947"
 990;Oklahoma City;USA;Cleveland-class light cruiser;22-Dec-44;converted to missile cruiser 1960, sunk as target 1999
 991;Oktyabrskaya Revolutsiya (originally Gangut);USSR;Gangut-class battleship;03-Jun-09;scrapped 1959
@@ -964,7 +964,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 996;Orella;Chile;Serrano-class destroyer;;
 997;Orion;UK;Leander-class light cruiser;18-Jan-34;scrapped 1949
 1000;Orze?;Poland;Orze?-class submarine;02-Feb-39;sunk 11 June 1940
-1001;Ouragan;France Free France, Poland & UK;Bourrasque-class destroyer;19-Jan-27;"Polish Navy 17 July 1940; transferred to Free France 30 April 1941 then to Royal Navy in 1943; scrapped 7 April 1949."
+1001;Ouragan;Franceï¿½Free France,ï¿½Poland &ï¿½UK;Bourrasque-class destroyer;19-Jan-27;"Polish Navy 17 July 1940; transferred to Free France 30 April 1941 then to Royal Navy in 1943; scrapped 7 April 1949."
 1002;?yodo;Japan;?yodo-class light cruiser;28-Feb-43;sunk 25 July 1945
 1003;Panther;Greece;Wild Beast class destroyer;19-Oct-12;Decommissioned 1946
 1004;Parana;Argentina;Rosario class gunboat;;Sold 28 August 1958
@@ -1008,8 +1008,8 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 1047;Punjabi;UK;Tribal class destroyer;29-Mar-39;sunk 1 May 1942
 1049;Queen Elizabeth;UK;Queen Elizabeth-class battleship;22-Dec-14;decommissioned 1948 and scrapped
 1050;Quick;USA;Gleaves-class destroyer;03-Jul-42;decommissioned 1949, scrapped 1973
-1051;Quincy (CA-39);USA;New Orleans-class heavy cruiser;09-Jun-36;sunk 9 August 1942
-1052;Quincy (CA-71);USA;Baltimore-class heavy cruiser;Dec-43;decommissioned 1954 and scrapped in 1974
+1051;Quincyï¿½(CA-39);USA;New Orleans-class heavy cruiser;09-Jun-36;sunk 9 August 1942
+1052;Quincyï¿½(CA-71);USA;Baltimore-class heavy cruiser;Dec-43;decommissioned 1954 and scrapped in 1974
 1053;Raimondo Montecuccoli;Italy;Montecuccoli class light cruiser;1935;decommissioned 1964
 1055;Rajputana;UK;Armed merchant cruiser;Dec-39;sunk 13 April 1941
 1056;Raleigh;USA;Omaha class light cruiser;06-Feb-24;scrapped 1946
@@ -1032,7 +1032,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 1078;Revenge;UK;Revenge-class battleship;01-Feb-16;scrapped 1948
 1079;Rhind;USA;Benham class destroyer;10-Nov-39;scuttled after A-bomb test 1948
 1080;Richard Beitzen;German;Type 1934 destroyer;13-May-37;ceded to UK, scrapped 1947
-1081;Richelieu;France Free France;Richelieu-class battleship;15-Jul-40;scrapped 1968
+1081;Richelieu;Franceï¿½Free France;Richelieu-class battleship;15-Jul-40;scrapped 1968
 1083;Richmond;USA;Omaha class light cruiser;02-Jul-23;scrapped 1946
 1084;Rio Grande do Sul;UK;Bahia class light cruiser;1910;scrapped 1948
 1085;Riquelme;Chile;Serrano class destroyer;;Discarded 1963
@@ -1064,7 +1064,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 1113;San Luis;Argentina;Buenos Aires class destroyer;;Discarded 3 May 1971
 1114;Santa Cruz;Argentina;Buenos Aires class destroyer;;Discarded 1973
 1115;Santa Fe;USA;Cleveland class light cruiser;24-Nov-42;scrapped 1959
-1116;São Paulo;Brazil;Minas Geraes-class battleship;12-Jul-10;Sold 1951
+1116;Sï¿½o Paulo;Brazil;Minas Geraes-class battleship;12-Jul-10;Sold 1951
 1117;Saratoga;USA;Lexington class fleet carrier;16-Nov-27;sunk as a target 1946
 1118;Satterlee;USA;Gleaves class destroyer;01-Jul-43;Decommissioned 16 March 1946, scrapped 1972
 1119;Saumarez;UK;S class destroyer;01-Jul-43;scrapped 1950
@@ -1106,11 +1106,11 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 1165;Stack;USA;Benham class destroyer;20-Nov-39;scuttled after A-bomb test 1948
 1167;Sterett;USA;Benham class destroyer;15-Aug-39;scrapped 1947
 1168;Stevenson;USA;Gleaves class destroyer;15-Dec-42;decommissioned 1946, scrapped 1970
-1169;Stewart;USA Japan;Clemson class destroyer;15-Sep-20;"scuttled 2 March 1942 at Surabaya, Java; raised and recommissioned as Patrol Boat No. 102, 20 September 1943"
+1169;Stewart;USAï¿½Japan;Clemson class destroyer;15-Sep-20;"scuttled 2 March 1942 at Surabaya, Java; raised and recommissioned as Patrol Boat No. 102, 20 September 1943"
 1171;Stockton;USA;Gleaves class destroyer;11-Jan-43;decommissioned 1946, scrapped 1973
 1172;Stord;Norway;S class destroyer;29-Sep-43;scrapped 1959
 1173;Strasbourg;France;Dunkerque-class battleship;Feb-39;scuttled 27 November 1942
-1175;Suffren;France Free France;Suffren class heavy cruiser;01-Jan-30;scrapped 1974
+1175;Suffren;Franceï¿½Free France;Suffren class heavy cruiser;01-Jan-30;scrapped 1974
 1177;Sutlej;India;Black Swan class sloop;23-Apr-41;
 1178;Suzuya;Japan;Mogami class heavy cruiser;Oct-37;sunk 25 October 1944
 1179;Svenner;Norway;S class destroyer;01-Jun-43;Sunk on D-Day, 6 June 1944
@@ -1148,7 +1148,7 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 1213;Tone;Japan;Tone class heavy cruiser;30-Nov-38;Sunk 14 July 1945
 1214;Tonkinois;Free France;River class frigate;15-Oct-44;Decommissioned 1961
 1215;Topeka;USA;Cleveland class light cruiser;23-Dec-44;converted to missile cruiser 1960, scrapped 1975
-1217;Tourville;France Free France;Duquesne class heavy cruiser;01-Dec-28;condemned 1962
+1217;Tourville;Franceï¿½Free France;Duquesne class heavy cruiser;01-Dec-28;condemned 1962
 1218;Tracker;UK;Ruler class escort aircraft carrier;31-Jan-43;Returned to USN 29 November 1945, sold into merchant service as Corrientes
 1219;Transylvania;UK;Armed merchant cruiser;05-Oct-39;Torpedoed and sunk by U-56,10 August 1940
 1220;Transvaal;South Africa;Loch class frigate;21-May-45;Decommissioned 14 August 1964, and sunk as artificial reef
@@ -1167,15 +1167,15 @@ ID;Ship;Country;Type;Tahun Produksi;Fate
 1234;Tsingtau;German;Supply escort and Schnellboot tender;24-Sep-34;Feb-50
 1236;Tunisien;Free France;Cannon class destroyer escort;11-Feb-44;Decommissioned May 1964
 1237;Tunsberg Castle;Norway;Castle-class corvette;17-Apr-44;Sunk 12 December 1944
-1245;Uganda;UK;Fiji-class light cruiser;21-Oct-44;transferred to RCN as HMCS Uganda 21 October 1944, renamed HMCS Quebec 14 January 1952, scrapped 1961
+1245;Uganda;UK;Fiji-class light cruiser;21-Oct-44;transferred to RCN as HMCSï¿½Uganda 21 October 1944, renamed HMCSï¿½Quebec 14 January 1952, scrapped 1961
 1246;Underhill;USA;Buckley-class destroyer escort;15-Nov-43;sunk 24 July 1945
 1247;Unicorn;UK;maintenance aircraft carrier;12-Mar-43;scrapped 1960
 1248;Unry?;Japan;Unry?-class aircraft carrier;06-Aug-44;sunk 19 December 1944
 1249;Uny?;Japan;escort aircraft carrier;1942;Sunk 15 September 1944
 1250;Utah;USA;Florida-class battleship;31-Aug-11;sunk 7 December 1941
 1307;Ying Swei;China;Chao Ho-class cruiser;1911;Sunk 25 October 1937
-1308;Yorktown (CV-5);USA;Yorktown-class aircraft carrier;30-Sep-37;sunk 7 June 1942
-1309;Yorktown (CV-10);USA;Essex-class aircraft carrier;15-Apr-43;decommissioned 27 June 1970, museum ship Charleston, South Carolina
+1308;Yorktownï¿½(CV-5);USA;Yorktown-class aircraft carrier;30-Sep-37;sunk 7 June 1942
+1309;Yorktownï¿½(CV-10);USA;Essex-class aircraft carrier;15-Apr-43;decommissioned 27 June 1970, museum ship Charleston, South Carolina
 1310;Yubari;Japan;light cruiser;1923;sunk 27 April 1944
 1311;Yukikaze;Japan;Kagero-class destroyer;1940;to China 1947, renamed Tan Yang
 1312;Yura;Japan;Nagara-class light cruiser;1922;lost 25 October 1942
