@@ -1,10 +1,12 @@
 package org.example.searchingsdat;
 
 import javafx.scene.control.Alert;
+import com.opencsv.CSVReader;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.HashMap;
+import java.util.Map;
 
 public class ShipDataLoader {
     public static HashMap<Integer, ShipIngfo> loadShipCSV(String filePath) {
@@ -28,5 +30,9 @@ public class ShipDataLoader {
             new Alert(Alert.AlertType.ERROR, "Error Read CSV: " +exception);
         }
         return shipsHashMap;
+    }
+
+    public static Map<Integer, ShipIngfo> loadShipCSV2(String csvPath) {
+        Map<>;
     }
 }
