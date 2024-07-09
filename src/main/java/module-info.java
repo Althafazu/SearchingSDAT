@@ -4,5 +4,5 @@ module org.example.searchingsdat {
 
     requires com.dlsc.formsfx;
 
-    opens 
-}
+    opens org.example.searchingsdat to javafx.fxml;
+    exports org.example.searchingsdat;}

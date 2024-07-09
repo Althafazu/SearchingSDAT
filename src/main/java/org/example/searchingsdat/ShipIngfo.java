@@ -1,3 +1,5 @@
+package org.example.searchingsdat;
+
 public class ShipIngfo {
 //    ID,Ship,Country,Type,Produksi,Fate
 

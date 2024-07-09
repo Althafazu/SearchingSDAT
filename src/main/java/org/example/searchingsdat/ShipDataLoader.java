@@ -1,7 +1,8 @@
+package org.example.searchingsdat;
+
 import javafx.scene.control.Alert;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.FileReader;
 import java.util.HashMap;
 
@@ -14,15 +15,18 @@ public class ShipDataLoader {
 //            Skip header lines
             for(int i = 0; i < 4; i++) br.readLine();
             while((line = br.readLine()) != null) {
+                // memisahkan value ketika bertemu semicolon
                 String[] values = line.split(";");
                 if(values.length == 6) {
                     int id = Integer.parseInt(values[0]);
-                    ShipIngfo ship = new ShipIngfo(id, values[1], values[2], values)
+                    ShipIngfo ship = new ShipIngfo(id, values[1], values[2], values[3], values[4], values[5]);
+                    shipsHashMap.put(id, ship);
                 }
             }
         } catch (Exception exception) {
             exception.printStackTrace();
             new Alert(Alert.AlertType.ERROR, "Error Read CSV: " +exception);
         }
+        return shipsHashMap;
     }
 }
