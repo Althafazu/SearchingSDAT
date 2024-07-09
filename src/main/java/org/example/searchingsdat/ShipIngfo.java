@@ -1,5 +1,7 @@
 package org.example.searchingsdat;
 
+import java.util.Date;
+
 public class ShipIngfo {
 //    ID,Ship,Country,Type,Produksi,Fate
 
@@ -7,10 +9,10 @@ public class ShipIngfo {
     private String name;
     private String country;
     private String type;
-    private String produksi;
+    private Date produksi;
     private String fate;
 
-    public ShipIngfo(int id, String name, String country, String type, String produksi, String fate) {
+    public ShipIngfo(int id, String name, String country, String type, Date produksi, String fate) {
         this.id = id;
         this.name = name;
         this.country = country;
@@ -51,11 +53,11 @@ public class ShipIngfo {
         this.type = type;
     }
 
-    public String getProduksi() {
+    public Date getProduksi() {
         return produksi;
     }
 
-    public void setProduksi(String produksi) {
+    public void setProduksi(Date produksi) {
         this.produksi = produksi;
     }
 

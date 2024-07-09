@@ -32,7 +32,5 @@ public class ShipDataLoader {
         return shipsHashMap;
     }
 
-    public static Map<Integer, ShipIngfo> loadShipCSV2(String csvPath) {
-        Map<>;
-    }
+
 }
