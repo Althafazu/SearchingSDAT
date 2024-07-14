@@ -8,10 +8,10 @@ import java.util.Date;
 import static org.apache.commons.lang3.time.DateUtils.parseDate;
 
 public class readShip {
-    public static List <ShipIngfo> readShip(String filePath) {
-        List<ShipIngfo> data = new ArrayList<>();
-        String path = "src/data/ListWarShips.csv";
+    List<ShipIngfo> data = new ArrayList<>();
+    String path = "src/data/ListWarShips.csv";
 
+    public List <ShipIngfo> readShip(String filePath) {
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))){
             // TODO: Implementasi load data kedalam ArrayList
             String line;
@@ -36,5 +36,23 @@ public class readShip {
             System.out.println("Error import data kedalam arraylist: " +exception);
         }
         return data;
+    }
+
+    public void showData() {
+        if (data != null && !data.isEmpty()) {
+            System.out.println("------------------------------------DATA KAPAL LAUT ERA WW2-----------------------------------------");
+            System.out.format("| %-20s | %-20s | %-20s | %-20s | %-20s | %-20s |\n", "ID KAPAL", "NAMA KAPAL", "NEGARA", "TANGGAL PRODUKSI", "NASIB TERKINI");
+            for (ShipIngfo shipIngfo : data) {
+                System.out.format
+                ( 
+                    "| %-20d | %-20s | %-20s | %-20s | %-20s | %-20s |\n", 
+                    shipIngfo.getId(), shipIngfo.getName(), shipIngfo.getCountry(), shipIngfo.getType(), shipIngfo.getProduksi().toString(), shipIngfo.getFate() 
+                );
+                System.out.println("---------------------------------------------------------------------------------------");
+                // System.out.println(shipIngfo);
+            }
+        } else {
+            System.out.println("Tidak ada data tersedia");
+        }
     }
 }
