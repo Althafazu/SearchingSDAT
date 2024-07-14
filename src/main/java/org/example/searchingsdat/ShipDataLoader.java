@@ -5,8 +5,11 @@ import com.opencsv.CSVReader;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
+
+import static org.apache.commons.lang3.time.DateUtils.parseDate;
 
 public class ShipDataLoader {
     public static HashMap<Integer, ShipIngfo> loadShipCSV(String filePath) {
@@ -21,7 +24,8 @@ public class ShipDataLoader {
                 String[] values = line.split(";");
                 if(values.length == 6) {
                     int id = Integer.parseInt(values[0]);
-                    ShipIngfo ship = new ShipIngfo(id, values[1], values[2], values[3], values[4], values[5]);
+                    Date produksi = parseDate(values[4]);
+                    ShipIngfo ship = new ShipIngfo(id, values[1], values[2], values[3], produksi, values[5]);
                     shipsHashMap.put(id, ship);
                 }
             }
