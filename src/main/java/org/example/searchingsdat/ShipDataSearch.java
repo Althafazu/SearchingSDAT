@@ -15,6 +15,44 @@ public class ShipDataSearch {
     private int currentPage = 1;
     private static final int DATA_PAGE = 100;
 
+    Scanner scanner = new Scanner(System.in);
+
+    public void run() {
+        System.out.println("Searching berdasarkan apa?");
+        System.out.println("1. Searching berdasarkan id.");
+        System.out.println("2. Searching berdasarkan nama.");
+        System.out.println("3. Searching berdasarkan country.");
+        System.out.println("4. Searching berdasarkan tahun produksi.");
+
+        showSuggestions();
+
+        System.out.print("Pilihan : ");
+        int pilihan = scanner.nextInt();
+        switch(pilihan) {
+            case 1:
+                System.out.print("Masukkan ID Kapal: ");
+                int id = scanner.nextInt();
+                searchID(id);
+                break;
+            case 2:
+                System.out.print("Masukkan Nama Kapal: ");
+                String nama = scanner.nextLine();
+                searchName(nama);
+                break;
+            case 3:
+                System.out.print("Masukkan Nama Negara: ");
+                String country = scanner.nextLine();
+                searchCountry(country);
+                break;
+            case 4:
+            default:
+        }
+    }
+
+    private void showSuggestions() {
+
+    }
+
     public List<ShipIngfo> readShip(String filePath) {
         try(BufferedReader br = new BufferedReader(new FileReader(filePath))) {
             // TODO: Implementasi load data kedalam ArrayList
