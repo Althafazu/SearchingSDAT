@@ -15,10 +15,9 @@ public class Main {
             System.out.println("SiSTEM SEARCHING DATABASE KAPAL LAUT");
             System.out.println(garis);
             System.out.println("1. Searching data kapal laut");
-            System.out.println("2. View data kapal laut");
-            System.out.println("3. Lihat data paling dicari");
-            System.out.println("4. Credit");
-            System.out.println("5. Keluar");
+            System.out.println("2. Lihat data paling dicari");
+            System.out.println("3. Credit");
+            System.out.println("4. Keluar");
             System.out.println(garis);
 
             System.out.print("Masukkan pilihan: ");
@@ -28,15 +27,14 @@ public class Main {
 //            Memilih pilihan
             switch(pilihan) {
             case 1:
+                new ShipDataSearch().searchShip();
                 break;
             case 2:
                 break;
             case 3:
-                break;
-            case 4:
                 new showCredit().run();
                 break;
-            case 5:
+            case 4:
                 System.out.println("Keluar dari Program....");
                 loop =false;
                 break;
