@@ -4,6 +4,7 @@ import javafx.scene.control.Alert;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.PrintWriter;
 import java.util.*;
 
 import static org.apache.commons.lang3.time.DateUtils.parseDate;
@@ -18,6 +19,8 @@ public class ShipDataSearch {
     Scanner scanner = new Scanner(System.in);
 
     public void run() {
+        data = readShip(path);
+
         System.out.println("Searching berdasarkan apa?");
         System.out.println("1. Searching berdasarkan id.");
         System.out.println("2. Searching berdasarkan nama.");
@@ -28,29 +31,70 @@ public class ShipDataSearch {
 
         System.out.print("Pilihan : ");
         int pilihan = scanner.nextInt();
+        scanner.nextLine();
         switch(pilihan) {
             case 1:
                 System.out.print("Masukkan ID Kapal: ");
                 int id = scanner.nextInt();
+                scanner.nextLine();
                 searchID(id);
                 break;
             case 2:
                 System.out.print("Masukkan Nama Kapal: ");
                 String nama = scanner.nextLine();
-                searchName(nama);
+                if(!nama.isEmpty()) {
+                    searchName(nama);
+                } else {
+                    System.out.println("input tidak boleh kosong");
+                }
                 break;
             case 3:
                 System.out.print("Masukkan Nama Negara: ");
                 String country = scanner.nextLine();
-                searchCountry(country);
+
+                if(!country.isEmpty()) {
+                    searchCountry(country);
+                } else {
+                    System.out.println("Input jangan koson");
+                }
                 break;
             case 4:
             default:
         }
     }
 
-    private void showSuggestions() {
+    private Map<String, Integer> searchSuggestions = new HashMap<>();
+    private void updateSearchSuggestions(String searchCriteria) {
+        searchSuggestions.put(searchCriteria, searchSuggestions.getOrDefault(searchCriteria, 0) +1);
+    }
 
+    private void safeSearchSuggestionsToFile() {
+        List<Map.Entry<String, Integer>> sortedSuggestions = new ArrayList<>(searchSuggestions.entrySet());
+        sortedSuggestions.sort(Map.Entry.comparingByValue(Comparator.reverseOrder()));
+
+        try(PrintWriter writer = new PrintWriter("search_suggestions.txt")) {
+            for(Map.Entry<String, Integer> entry : sortedSuggestions) {
+                writer.println(entry.getKey() +";" +entry.getValue());
+            }
+        } catch (Exception exception) {
+            System.out.println("Error when save suggestions to file: " +exception);
+        }
+    }
+
+    private void showSuggestions() {
+        System.out.println("Top 10 Search Suggestions");
+        List<Map.Entry<String, Integer>> sortedSuggestions = new ArrayList<>(searchSuggestions.entrySet());
+        sortedSuggestions.sort(Map.Entry.comparingByValue(Comparator.reverseOrder()));
+
+        int count = 0;
+        for(Map.Entry<String, Integer> entry : searchSuggestions.entrySet()) {
+            if(count < 10) {
+                System.out.println(entry.getKey() +";" +entry.getValue());
+                count++;
+            } else {
+                break;
+            }
+        }
     }
 
     public List<ShipIngfo> readShip(String filePath) {
