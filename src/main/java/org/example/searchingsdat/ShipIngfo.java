@@ -9,10 +9,10 @@ public class ShipIngfo {
     private String name;
     private String country;
     private String type;
-    private Date produksi;
+    private String  produksi;
     private String fate;
 
-    public ShipIngfo(int id, String name, String country, String type, Date produksi, String fate) {
+    public ShipIngfo(int id, String name, String country, String type, String produksi, String fate) {
         this.id = id;
         this.name = name;
         this.country = country;
@@ -53,11 +53,11 @@ public class ShipIngfo {
         this.type = type;
     }
 
-    public Date getProduksi() {
+    public String getProduksi() {
         return produksi;
     }
 
-    public void setProduksi(Date produksi) {
+    public void setProduksi(String produksi) {
         this.produksi = produksi;
     }
 

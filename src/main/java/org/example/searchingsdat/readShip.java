@@ -24,7 +24,7 @@ public class readShip {
                     String name = values[1];
                     String country = values[2];
                     String type = values[3];
-                    Date produksi = parseDate(values[4]); // Anda perlu mengonversi String ke Date
+                    String produksi = values[4];
                     String fate = values[5];
 
                     ShipIngfo ships = new ShipIngfo(id, name, country, type, produksi, fate);
