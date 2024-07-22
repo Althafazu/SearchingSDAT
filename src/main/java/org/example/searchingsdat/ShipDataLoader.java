@@ -24,8 +24,7 @@ public class ShipDataLoader {
                 String[] values = line.split(";");
                 if(values.length == 6) {
                     int id = Integer.parseInt(values[0]);
-                    Date produksi = parseDate(values[4]);
-                    ShipIngfo ship = new ShipIngfo(id, values[1], values[2], values[3], produksi, values[5]);
+                    ShipIngfo ship = new ShipIngfo(id, values[1], values[2], values[3], values[4], values[5]);
                     shipsHashMap.put(id, ship);
                 }
             }
